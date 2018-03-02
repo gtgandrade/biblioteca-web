@@ -4,8 +4,6 @@ public class Usuario {
 	private String nome;
 
 	private String matricula;
-	
-	private String empresa;
 
 	public Usuario(String nome, String matricula) {
 		super();
